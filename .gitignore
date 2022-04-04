@@ -1,6 +1,10 @@
 # Binaries for programs and plugins
 *.exe
 *.exe~
+
+# for mac
+DNSy
+
 *.dll
 *.so
 *.dylib
@@ -13,3 +17,7 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# Ignore all .txt files
+*.txt
+
